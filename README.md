@@ -6,6 +6,8 @@ A "work in progress" iOS jailbreak for 64-bit devices created by [qwertyoruiopz]
 
 Please use the "Issues" tab for **code related** issues only. If you need support please search on [/r/jailbreak](https://reddit.com/r/jailbreak) before posting a question there.
 
+https://travis-ci.org/Aaahh/yalu102.svg?branch=master
+
 ## Supported Devices and iOS versions
 
 | Device | Version | 
